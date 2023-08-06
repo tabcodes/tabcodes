@@ -1,4 +1,16 @@
-### Hi there 👋
+
+> "...and there were days- good days- when by anyone's judgment, they would have to be considered clever." 
+<div align="center">
+  <img src="https://github.com/tabcodes/tabcodes/assets/7765337/c378d0d3-0107-4cc8-b6b6-c4a52b8e70cc)" width="200" height="100"/>
+</div>
+
+I'm a software engineer, MMA geek, movie nerd, bourbon afficionado, and winner of the 1998 Nobel Prize in Physics for discovering a new form of quantum fluid with fractionally-charged excitations.
+
+One of these things _may_ be a lie.
+
+<hr>
+
+In the past, I've worked for large-scale managed services providers, SaaS and data management services, and healthcare technology companies. Outside of that, I spend my personal time ostensibly trying to address various problems with software solutions. In practice, I create problems and make them slightly-smaller problems with more code than necessary- but at least I've got some frickin' _sweet_ automated terminal layouts.   
 
 <!--
 **tabcodes/tabcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
