@@ -8,7 +8,7 @@
   <img src="https://github.com/tabcodes/tabcodes/assets/7765337/c378d0d3-0107-4cc8-b6b6-c4a52b8e70cc)" width="200" height="100"/>
 </div>
 
-I'm a software engineer, MMA geek, movie nerd, bourbon afficionado, and winner of the 1998 Nobel Prize in Physics for discovering a new form of quantum fluid with fractionally-charged excitations.
+I'm a software engineer, MMA geek, movie nerd, bourbon _aficionado_, and winner of the 1998 Nobel Prize in Physics for discovering a new form of quantum fluid with fractionally-charged excitations.
 
 One of these things _may_ be a lie.
 
