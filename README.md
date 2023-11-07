@@ -14,8 +14,12 @@ One of these things _may_ be a lie.
 
 <hr>
 
-In the past, I've worked for large-scale managed services providers, SaaS and data management services, and healthcare technology companies. I've developed third-party integrations with (and for) services you've almost definitely used (or, at least, heard of). Outside of that, I spend my personal time ostensibly trying to address various problems with software solutions. In practice, I create problems and make them slightly-smaller problems with more code than necessary- but if failure is the gateway through which future successes lie, then the key to said gateway are composed of perseverance and iteration.  
+In the past, I've worked for large-scale managed services providers, SaaS and data management services, and healthcare technology companies. I've developed third-party integrations with (and for) services you've almost definitely used (or, at least, heard of). Outside of that, I spend my personal time ostensibly trying to address various problems with software solutions. In practice, I create problems and make them slightly-smaller problems with more code than necessary.  
 
+- 🔭 Current personal interests ...
+  - [Kubernetes & Tilt](https://github.com/tabcodes/Laranetes)
+  - Python GTK4 Desktop Application Development
+  - Homelab Integrations w/ Proxmox VMs/LXCs and Grafana
 <!--
 **tabcodes/tabcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
